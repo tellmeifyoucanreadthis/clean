@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_Back-Pack</string>
+    <string name="logIn">Login</string>
+    <string name="logout">Log out</string>
+</resources>

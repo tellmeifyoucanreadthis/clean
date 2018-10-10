@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "294604920976",
+    "firebase_url": "https://backpack-6fa5c.firebaseio.com",
+    "project_id": "backpack-6fa5c",
+    "storage_bucket": "backpack-6fa5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294604920976:android:aa781c7005402456",
+        "android_client_info": {
+          "package_name": "com.example.gocool.my_back_pack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294604920976-p1hp95leaqbspmnjaroc857s8v9uvd83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzNBXkvl2IcHoYlmeUbC79pzxatqZQWUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
